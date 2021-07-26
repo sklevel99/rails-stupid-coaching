@@ -1,0 +1,37 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+#modify {
+  font-weight: 400;
+  font-size: 40px;
+}
+
+.question_part {
+  background-color: #0094C6;
+  width: 20%;
+  border-radius: 4px;
+}
+
+.question-modify {
+  font-weight: 200px;
+  font-size: 20px;
+  padding: 10px;
+}
+
+.paragraph-modify {
+  font-size: 20px;
+  padding: 10px;
+}
+
+.answer_part {
+  background-color: #C1FFF2;
+  width: 20%;
+  border-radius: 4px;
+  padding: 10px;
+}
+
+.answer-modify {
+  font-size: 20px;
+  padding: 10px;
+}
